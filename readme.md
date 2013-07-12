@@ -29,6 +29,6 @@ to
 $app['artisan']->getArtisan();
 ```
 
-and in console enter 
+and in your terminal enter 
 
 	php artisan config:publish  
