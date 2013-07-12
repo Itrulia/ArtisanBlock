@@ -1,0 +1,20 @@
+{
+    "name": "itrulia/artisan-block",
+    "description": "",
+    "authors": [
+        {
+            "name": "Itrulia",
+            "email": "info@karl-merkli.ch"
+        }
+    ],
+    "require": {
+        "php": ">=5.3.0",
+        "illuminate/support": "4.0.x"
+    },
+    "autoload": {
+        "psr-0": {
+            "Itrulia\\ArtisanBlock": "src/"
+        }
+    },
+    "minimum-stability": "dev"
+}
