@@ -1,6 +1,6 @@
 {
     "name": "itrulia/artisan-block",
-    "description": "",
+    "description": "Package to block certain artisan commands",
     "authors": [
         {
             "name": "Itrulia",
