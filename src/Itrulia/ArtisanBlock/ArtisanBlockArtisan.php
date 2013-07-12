@@ -13,6 +13,6 @@ class ArtisanBlockArtisan extends \Illuminate\Foundation\Artisan {
 
 		$this->app->loadDeferredProviders();
 
-		return $this->artisan = ArtisanBlockArtisan::start($this->app);
+		return $this->artisan = ArtisanBlockConsole::start($this->app);
 	}
 }
