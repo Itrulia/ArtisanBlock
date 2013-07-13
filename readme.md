@@ -30,4 +30,4 @@ $app['artisan']->getArtisan();
 
 and in your terminal enter 
 
-	php artisan config:publish  
+	php artisan config:publish itrulia/artisan-block
