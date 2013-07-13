@@ -1,5 +1,4 @@
-# Minimalist
-
+# ArtisanBlock
 ArtisanBlock is a hook in to Artisan to block certain commands.
 
 ## Installation
