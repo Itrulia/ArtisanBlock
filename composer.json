@@ -2,7 +2,8 @@
     "name": "itrulia/artisan-block",
     "description": "Package to block certain artisan commands",
     "version": "1.0.0",
-    "keywords": ["laravel","artisan"],
+    "keywords": ["laravel", "artisan"],
+    "license": "MIT",
     "authors": [
         {
             "name": "Itrulia <Karl Merkli>",
