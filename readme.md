@@ -9,9 +9,7 @@ Add `itrulia/artisan-block` to `composer.json`.
 
 Run `composer update` to pull down the latest version of ArtisanBlock. Now open up `app/config/app.php` and add the service provider to your `providers` array.
 
-    'providers' => array(
-        'Itrulia\ArtisanBlock\ArtisanBlockServiceProvider',
-    )
+    'Itrulia\ArtisanBlock\ArtisanBlockServiceProvider',
 
 ## Usage
 
@@ -25,7 +23,7 @@ to
 
 
 ```php
-$app['artisan']->getArtisan();
+$artisan = $app['artisan']->getArtisan();
 ```
 
 and in your terminal enter 
